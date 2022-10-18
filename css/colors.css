@@ -1,0 +1,16 @@
+@charset "utf-8";
+.settings .colors li a.blue{background-color: #4169e1;}
+.settings .colors li a.black{background-color: #333;}
+.settings .colors li a.white{background-color: #e5e5e5;}
+
+
+.wrap[data-color="blue"] .home_main .content h3{color: #4169e1;}
+.wrap[data-color="blue"] .home_main .content h3 span{-webkit-text-stroke: 1px #4169e1;}
+.wrap[data-color="blue"] .shane_tm_title span{background-color:rgba(65,105,225,.05);}
+.wrap[data-color="blue"] .home_button a{background-color:#4169e1;border-color: #4169e1;}
+.wrap[data-color="blue"] .home_button a:hover{background-color:transparent;}
+.wrap[data-color="blue"] .section_portfolio .portfolio_filter ul li a.current{color: #4169e1;}
+.wrap[data-color="blue"] .section_portfolio .portfolio_filter ul li a:hover{color: #4169e1;}
+.wrap[data-color="blue"] .progress_inner .background .bar_in{background: #4169e1;}
+.wrap[data-color="blue"] .cursor-outer{border-color: #4169e1;}
+.wrap[data-color="blue"] .cursor-inner{background-color: #4169e1;}
